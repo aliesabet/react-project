@@ -1,0 +1,26 @@
+import logo from './logo.svg';
+import './App.css';
+import Header from "./components/Header";
+import About from "./components/About";
+import Services from "./components/Services";
+import Blog from "./components/Blog";
+import Footer from "./components/Footer";
+function App() {
+
+  return (
+
+  
+      <>
+
+      <Header />
+
+      <About />
+
+    </>
+
+
+  );
+
+}
+
+export default App;
