@@ -16,6 +16,12 @@ function App() {
 
       <About />
 
+      <Services />
+
+      <Blog />
+
+      <Footer />  
+
     </>
 
 
